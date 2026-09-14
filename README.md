@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="assets/aaa1.png" />
+<img width="100%" src="assets/aaa2.jpg" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
