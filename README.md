@@ -89,8 +89,8 @@ I'm driven by high standards and a strong work ethic, always aiming to deliver m
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-0d0221?style=for-the-badge&logo=gmail&logoColor=3b82f6)](mailto:anushkakulkarni2024.comp@mmcoe.edu.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d0221?style=for-the-badge&logo=linkedin&logoColor=BB86FC)](https://linkedin.com/in/anushka-kulkarni)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d0221?style=for-the-badge&logo=vercel&logoColor=BB86FC)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d0221?style=for-the-badge&logo=linkedin&logoColor=BB86FC)](https://www.linkedin.com/in/anushka1a-kulkarni/)
+
 
 </div>
 
